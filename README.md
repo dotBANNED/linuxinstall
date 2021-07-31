@@ -18,5 +18,7 @@ Gnome Extentions: https://extensions.gnome.org
   - [Clipboard Menu](https://extensions.gnome.org/extension/779/clipboard-indicator/)
 
 ocs-url install: https://www.opendesktop.org/p/1136805/
+
 Gnome Cosmetic Themes: https://www.gnome-look.org/browse/
+
 Papirus Icon Pack: https://www.gnome-look.org/p/1166289
