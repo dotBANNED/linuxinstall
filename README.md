@@ -11,7 +11,7 @@ uBlock Origin: https://ublockorigin.com
 
 Enable Firefox Autoscrolling in settings
 about:config
-search mousewheel.min_line_scroll_amount set to 60
+`search mousewheel.min_line_scroll_amount` set to `60`
 
 Gnome Extentions: https://extensions.gnome.org
   - [OpenWeather](https://extensions.gnome.org/extension/750/openweather/)
