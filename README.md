@@ -5,7 +5,7 @@ Gnome Tweak Tools: `sudo apt install gnome-tweaks -y`
 
 Stacer Tool: `sudo apt install stacer -y` 
 
-Update & Upgrade: `sudo apt update && sudo apt -y dist-upgrade && sudo apt -y autoremove && sudo apt clean`   
+Update & Upgrade: `sudo apt update && sudo apt dist-upgrade -y && sudo apt autoremove -y && sudo apt clean`   
 
 uBlock Origin: https://ublockorigin.com
 
