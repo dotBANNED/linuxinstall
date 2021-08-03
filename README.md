@@ -9,6 +9,10 @@ Update & Upgrade: `sudo apt update && sudo apt dist-upgrade -y && sudo apt autor
 
 uBlock Origin: https://ublockorigin.com
 
+Enable Firefox Autoscrolling in settings
+about:config
+search mousewheel.min_line_scroll_amount set to 60
+
 Gnome Extentions: https://extensions.gnome.org
   - [OpenWeather](https://extensions.gnome.org/extension/750/openweather/)
   - [User Themes](https://extensions.gnome.org/extension/19/user-themes/)
